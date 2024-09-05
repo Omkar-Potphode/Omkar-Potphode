@@ -11,7 +11,7 @@
 - 🛠️ Enthusiastic about exploring new tech stacks and crafting innovative solutions.
 - 📚 Always diving into tech documentation to expand knowledge.
 - 🎯 2024 Goals: Mastering Cloud on AWS and Azure.
-- ⚡ Fun fact: In JavaScript, NaN is not equal to itself! 😄
+- ⚡ Full-stack wizard, backend ninja, and front-end juggler. Occasionally human.😄
 
 ---
 
